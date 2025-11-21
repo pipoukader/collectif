@@ -23,7 +23,7 @@ Un projet de site web collaboratif développé par une équipe de 4 personnes ut
   - Système de design et expérience utilisateur
   - Création des interfaces modernes
 
-- *Othmane Benhadi** 👑 - *Développeur Backend*
+- **Othmane Benhadi** 👑 - *Développeur Backend*
   - Formulaire de contact interactif
   - Gestion des fonctionnalités dynamiques
 
