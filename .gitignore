@@ -1,0 +1,52 @@
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Dossiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dossiers de sauvegarde
+backup/
+tmp/
+temp/
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers d'éditeur
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers de dépendances
+node_modules/
+bower_components/
+
+# Fichiers de build
+dist/
+build/
+*.min.js
+*.min.css
+
+# Fichiers de configuration locaux
+.env
+.env.local
+.config
+
+# Fichiers de logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Fichiers de système d'exploitation
+*.orig
+*.rej
