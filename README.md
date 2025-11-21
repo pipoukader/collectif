@@ -15,15 +15,15 @@ Un projet de site web collaboratif développé par une équipe de 4 personnes ut
   - Expert Git/GitHub et gestion des branches
   - Développement des fonctionnalités principales
 
-- **Ali Bensalah** - *Développeur Frontend*
+- **Yacinee Dilmi** 👑 - *Développeur Frontend*
   - Page d'accueil et structure principale
   - Intégration des designs responsive
 
-- **Othmane Benhadi** - *Designer UX/UI*  
+- **Ali Bensalah** 👑 - *Designer UX/UI*  
   - Système de design et expérience utilisateur
   - Création des interfaces modernes
 
-- **Yacinee Dilmi** - *Développeur Backend*
+- *Othmane Benhadi** 👑 - *Développeur Backend*
   - Formulaire de contact interactif
   - Gestion des fonctionnalités dynamiques
 
