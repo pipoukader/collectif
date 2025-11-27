@@ -8,6 +8,3 @@
 backup/
 tmp/
 temp/
-# Fichier Word
-*.doc
-*.docx
